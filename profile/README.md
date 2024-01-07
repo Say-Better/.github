@@ -1,12 +1,18 @@
-## Hi there 👋
+# AESP
 
-<!--
+> AAC Education Support Project
 
-**Here are some ideas to get you started:**
+AESP는 AAC를 사용하는 사람들을 위한 교육 지원 프로젝트입니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 프로젝트 개요
+
+### AAC란?
+
+### 프로젝트 목표
+
+## 프로젝트 참여자
+
+|![지영인](https://avatars.githubusercontent.com/u/139129405?v=4)|![김태규](https://avatars.githubusercontent.com/u/84448791?v=4)|![이채원](https://avatars.githubusercontent.com/u/101500670?v=4)|![최선규](https://avatars.githubusercontent.com/u/98688494?v=4)|
+|:-:|:-:|:-:|:-:|
+|[지영인]()|[김태규]()|[이채원]()|[최선규]()|
+|PM|ML Engineer|Front-End Engineer|Back-End Engineer|
