@@ -1,8 +1,7 @@
-# AESP
+# Say Better
+![Say Better Logo](../assets/say_better_logo2.png)
 
-> AAC Education Support Project
-
-AESP는 AAC를 사용하는 사람들을 위한 교육 지원 프로젝트입니다.
+Say Better is a solution that enables children with brain lesion disorders to receive speech therapy through pictorial symbols, contactlessly. Educators can get help from artificial intelligence in planning therapy sessions. Learners can continue to use the picture symbols they've been learning to communicate even after their contactless therapy schedule ends.
 
 ## 프로젝트 개요
 
