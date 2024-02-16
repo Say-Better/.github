@@ -47,8 +47,10 @@ Reduce inequality within and among countries.
 <br>
 
 # E-R Diagram
-![Say Better Logical Schema](https://github.com/Say-Better/.github/assets/139129405/58cbe1e6-5076-4736-a697-789b007875cd)
+![ASSIGN](https://github.com/Say-Better/.github/assets/139129405/1923a15c-7be3-460e-abe0-427f2efbd2a7)
 
+# ML Feature
+![say_better_embedding_graph3d](https://github.com/Say-Better/.github/assets/139129405/26b0c82c-6560-47f4-a9e0-a6a11f55f8e7)
 
 # Members
 
