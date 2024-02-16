@@ -11,9 +11,19 @@
 
 Say Better is a solution that enables children with brain lesion disorders to receive speech therapy through pictorial symbols, contactlessly. Educators can get help from artificial intelligence in planning therapy sessions. Learners can continue to use the picture symbols they've been learning to communicate even after their contactless therapy schedule ends.
 
-## 프로젝트 개요
+<br>
 
-### AAC란?
+## Target SDGs
+### Goal4: Quality Education
+<img src="../assets/quality_education.png" width="200px" alt="Quality Education" />
+
+SDG Description
+
+### Goal10: Reduced Inequalities
+<img src="../assets/reduced_inequalities.png" width="200px" alt="Reduced Inequalities" />
+
+SDG Description
+
 
 ### 프로젝트 목표
 
