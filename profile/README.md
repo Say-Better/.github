@@ -46,6 +46,10 @@ Reduce inequality within and among countries.
 
 <br>
 
+# E-R Diagram
+![Say Better Logical Schema](https://github.com/Say-Better/.github/assets/139129405/58cbe1e6-5076-4736-a697-789b007875cd)
+
+
 # Members
 
 |![지영인](https://avatars.githubusercontent.com/u/139129405?v=4)|![김태규](https://avatars.githubusercontent.com/u/84448791?v=4)|![이채원](https://avatars.githubusercontent.com/u/101500670?v=4)|![최선규](https://avatars.githubusercontent.com/u/98688494?v=4)|
