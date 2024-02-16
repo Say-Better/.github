@@ -5,17 +5,16 @@
 <p align="center">
 <img src="https://github.com/Say-Better/.github/assets/139129405/e1c418cf-5b34-4c1f-bd85-5cbd4129868e" width="300px" alt="SayBetter Logo" />
 </p>
-<h1 align="center">Say Better</h1>
-
-<br>
-
-# APP Demo
 
 <br>
 
 # About Solution
 
 Say Better is a solution that enables children with brain lesion disorders to receive speech therapy through pictorial symbols, contactlessly. Educators can get help from artificial intelligence in planning therapy sessions. Learners can continue to use the picture symbols they've been learning to communicate even after their contactless therapy schedule ends.
+
+<br>
+
+# APP Demo
 
 <br>
 
