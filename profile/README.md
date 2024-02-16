@@ -9,6 +9,12 @@
 
 <br>
 
+# APP Demo
+
+<br>
+
+# About Solution
+
 Say Better is a solution that enables children with brain lesion disorders to receive speech therapy through pictorial symbols, contactlessly. Educators can get help from artificial intelligence in planning therapy sessions. Learners can continue to use the picture symbols they've been learning to communicate even after their contactless therapy schedule ends.
 
 <br>
@@ -27,15 +33,17 @@ Reduce inequality within and among countries.
 
 <br>
 
+# About Implementation
+
+<br>
+
 # System Architecture
 ![Say_Better_Architecture_final](https://github.com/Say-Better/.github/assets/139129405/ba280faa-6dd1-4b15-803b-e152fe8aabe1)
-* Educator Client: 학습자와 연결하여 비대면 언어치료를 제공하는 어플리케이션
-* Learner Client: 
-* Signaling Server
-* Service Server
-* ML Server
-
-
+* Educator Client: Applications that provide non-face-to-face language therapy by connecting with learners
+* Learner Client: Applications that connect with educators and provide non-face-to-face speech therapy
+* Signaling Server: Servers that support WebRTC P2P connections
+* Service Server: Server that provides overall application services
+* ML Server: Server providing AI services including AI symbol recommendation system
 
 <br>
 
