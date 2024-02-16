@@ -29,11 +29,11 @@ Reduce inequality within and among countries.
 
 # System Architecture
 ![Say_Better_Architecture_final](https://github.com/Say-Better/.github/assets/139129405/ba280faa-6dd1-4b15-803b-e152fe8aabe1)
-## Educator Client
-## Learner Client
-## Signaling Server
-## Service Server
-## ML Server
+* Educator Client: 학습자와 연결하여 비대면 언어치료를 제공하는 어플리케이션
+* Learner Client: 
+* Signaling Server
+* Service Server
+* ML Server
 
 
 
