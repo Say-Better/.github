@@ -25,6 +25,20 @@ Ensure inclusive and equitable quality education and promote lifelong learning o
 
 Reduce inequality within and among countries.
 
+<br>
+
+# System Architecture
+![Say_Better_Architecture_final](https://github.com/Say-Better/.github/assets/139129405/ba280faa-6dd1-4b15-803b-e152fe8aabe1)
+## Educator Client
+## Learner Client
+## Signaling Server
+## Service Server
+## ML Server
+
+
+
+<br>
+
 # Members
 
 |![지영인](https://avatars.githubusercontent.com/u/139129405?v=4)|![김태규](https://avatars.githubusercontent.com/u/84448791?v=4)|![이채원](https://avatars.githubusercontent.com/u/101500670?v=4)|![최선규](https://avatars.githubusercontent.com/u/98688494?v=4)|
