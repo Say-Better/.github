@@ -16,6 +16,8 @@
 
 # APP Demo
 
+[![Say Better Demo Video](https://github.com/Say-Better/.github/assets/139129405/009cf00e-5ba8-42ce-a894-7b1322da8519)](https://www.youtube.com/watch?v=i28pV065ZAY)
+
 <br>
 
 # Target SDGs
@@ -23,12 +25,16 @@
 ## Goal4: Quality Education
 <img src="https://github.com/Say-Better/.github/assets/139129405/c4f4d8fb-507a-4658-9b9a-9ff683385ae8" width="200px" alt="Quality Education" />
 
-Ensure inclusive and equitable quality education and promote lifelong learning opportunities for all.
+Among the population with language impairment, especially those with brain lesion disorders, access to specialized language education is significantly reduced due to their often accompanying mobility impairment. According to the "2022 Gyeonggi-do Brain Lesion Disability Survey Report," 48.4% of people with brain lesion disabilities living in Gyeonggi-do reported that they had not received a health checkup in the past year because "it was inconvenient to travel to the checkup institution." 
+
+<br><br>
+
+The degree of walking impairment among people with brain lesion disabilities varies. In mild cases, they may use assistive technology tools such as canes or use wheelchairs, and in severe cases, they may not be able to move at all due to paralysis. Therefore, when they go out, they have to consider "costs" that people without disabilities do not have to consider.
 
 ## Goal10: Reduced Inequalities
 <img src="https://github.com/Say-Better/.github/assets/139129405/7e81d254-6514-4351-8d56-f0bea383c9a1" width="200px" alt="Reduced Inequalities" />
 
-Reduce inequality within and among countries.
+According to the "Report", 39.5% of the reasons why people with brain lesions believe they are discriminated against are due to communication-related issues. Therefore, specialized language training solutions such as Say Better are needed to help improve their communication issues and contribute to addressing inequality.
 
 <br>
 
