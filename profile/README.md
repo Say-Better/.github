@@ -1,31 +1,29 @@
-# <center>Say Better</center>
 
-
-<br>
 <p align="center">
-<img src="https://github.com/Say-Better/.github/assets/139129405/e1c418cf-5b34-4c1f-bd85-5cbd4129868e" width="300px" alt="SayBetter Logo" />
+<img src="https://github.com/Say-Better/Android-Learner-APP/assets/139129405/616daea5-2c7b-4891-967f-7ee175fb3fe9" width="700px" alt="SayBetter Logo" />
 </p>
 
 <br>
 
 # About Solution
 
+<img src="https://github.com/Say-Better/.github/assets/139129405/40c452d5-9c5b-49cc-9f5d-6fccdfbf9ecb" alt="solution overview" />
+<br><br>
+
 **Say Better** is a solution that enables children with brain lesion disorders to receive speech therapy through pictorial symbols, **contactlessly**. Educators can get help from artificial intelligence in planning therapy sessions. Learners can continue to use the picture symbols they've been learning to communicate even after their contactless therapy schedule ends.
 
-<br>
+<br><br>
 
-# APP Demo
+# We are the Top100 Finalist 🎊
+<img src="https://github.com/Say-Better/.github/assets/139129405/5b777f39-7324-4798-820d-e69e25d8289e" width="500px" alt="global top100" />
 
-[![Say Better Demo Video](https://github.com/Say-Better/.github/assets/139129405/009cf00e-5ba8-42ce-a894-7b1322da8519)](https://www.youtube.com/watch?v=i28pV065ZAY)
-
-<br>
+<br><br>
 
 # Target SDGs
 
 ## Goal4: Quality Education
 <img src="https://github.com/Say-Better/.github/assets/139129405/c4f4d8fb-507a-4658-9b9a-9ff683385ae8" width="200px" alt="Quality Education" />
 
-<br>
 
 Among the population with language impairment, especially those with brain lesion disorders, access to specialized language education is significantly reduced due to their often accompanying mobility impairment. According to the "2022 Gyeonggi-do Brain Lesion Disability Survey Report," 48.4% of people with brain lesion disabilities living in Gyeonggi-do reported that they had not received a health checkup in the past year because "it was inconvenient to travel to the checkup institution." 
 
@@ -43,10 +41,6 @@ According to the "Report", 39.5% of the reasons why people with brain lesions be
 <br>
 
 # About Implementation
-
-<br>
-
-# System Architecture
 ![Say_Better_Architecture_final](https://github.com/Say-Better/.github/assets/139129405/ba280faa-6dd1-4b15-803b-e152fe8aabe1)
 * **Educator Client**: Applications that provide non-face-to-face language therapy by connecting with learners
 * **Learner Client**: Applications that connect with educators and provide non-face-to-face speech therapy
@@ -56,15 +50,16 @@ According to the "Report", 39.5% of the reasons why people with brain lesions be
 
 <br>
 
-# E-R Diagram
-![ASSIGN](https://github.com/Say-Better/.github/assets/139129405/1923a15c-7be3-460e-abe0-427f2efbd2a7)
-
-# ML Feature
-![say_better_embedding_graph3d](https://github.com/Say-Better/.github/assets/139129405/26b0c82c-6560-47f4-a9e0-a6a11f55f8e7)
-
 # Members
 
-|![지영인](https://avatars.githubusercontent.com/u/139129405?v=4)|![김태규](https://avatars.githubusercontent.com/u/84448791?v=4)|![이채원](https://avatars.githubusercontent.com/u/101500670?v=4)|![최선규](https://avatars.githubusercontent.com/u/98688494?v=4)|
+## Android Team
+|<img src="https://avatars.githubusercontent.com/u/139129405?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/101500670?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145656942?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145656942?v=4" width="150" height="150"/>|
 |:-:|:-:|:-:|:-:|
-|[지영인]()|[김태규]()|[이채원]()|[최선규]()|
-|PM|ML Engineer|Front-End Engineer|Back-End Engineer|
+|[지영인]()|[이채원]()|[고현철]()|[한지윤]()|
+|PM|Educator APP Engineer|Learner APP Engineer|UI/UX Designer|
+
+## Server Team
+|<img src="https://avatars.githubusercontent.com/u/98688494?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/84448791?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/74547868?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/77332981?v=4" width="150" height="150"/>|
+|:-:|:-:|:-:|:-:|
+|[최선규]()|[김태규]()|[이지호]()|[이은미]()|
+|Service Server Engineer|ML Server Engineer|Service Server Engineer|Service Server Engineer|
