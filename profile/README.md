@@ -1,4 +1,3 @@
-
 <p align="center">
 <img src="https://github.com/Say-Better/Android-Learner-APP/assets/139129405/616daea5-2c7b-4891-967f-7ee175fb3fe9" width="700px" alt="SayBetter Logo" />
 </p>
@@ -53,7 +52,7 @@ According to the "Report", 39.5% of the reasons why people with brain lesions be
 # Members
 
 ## Android Team
-|<img src="https://avatars.githubusercontent.com/u/139129405?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/101500670?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145656942?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145656942?v=4" width="150" height="150"/>|
+|<img src="https://avatars.githubusercontent.com/u/139129405?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/101500670?v=4" width="150" height="150"/>|<img src="https://avatars.githubusercontent.com/u/145656942?v=4" width="150" height="150"/>|<img src="https://github.com/Say-Better/.github/assets/139129405/d86a9b48-bb7c-4a1b-a3d1-99082c928ffa" width="150" height="200"/>|
 |:-:|:-:|:-:|:-:|
 |[지영인]()|[이채원]()|[고현철]()|[한지윤]()|
 |PM|Educator APP Engineer|Learner APP Engineer|UI/UX Designer|
